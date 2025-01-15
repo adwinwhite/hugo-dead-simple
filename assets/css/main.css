@@ -1,14 +1,14 @@
 :root {
   --complimentary: #815205;
   --text: black;
-  --code: black;
+  /* --code: black; */
   --text-dim: #444;
   --link: #3366cc;
   --link-visited: #795cb2;
-  --code-background: #f3f5f7;
+  /* --code-background: #f3f5f7; */
   --code-border: #eaecf0;
   --code-border: transparent;
-  --code-hl: #e6e6e6;
+  /* --code-hl: #e6e6e6; */
   --border-general: #cccfd4;
   --table-th: #e1e5ea;
   --table-tr: #edeff2;
@@ -20,14 +20,14 @@
   :root {
     --complimentary: #815205;
     --text: #d8d8d8;
-    --code: #cbcbcb;
+    /* --code: #cbcbcb; */
     --text-dim: #a7a7a7;
     /* --link: #8cb4ff; */
     --link: #88a9e9;
     --link-visited: #a390ca;
-    --code-background: #272727;
+    /* --code-background: #272727; */
     --code-border: transparent;
-    --code-hl: #5a5a5a;
+    /* --code-hl: #5a5a5a; */
     --border-general: #495057;
     --table-th: #414141;
     --table-tr: #343434;
